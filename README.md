@@ -1,4 +1,4 @@
-# Machine_Learning_Project-House-Price-Prediction
+# Machine_Learning_Project-Property-Price-Prediction
 
 Property Price Prediction using Multiple Linear Regression
 
